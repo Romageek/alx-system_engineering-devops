@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 0100
+chmod u+x hello
